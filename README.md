@@ -35,6 +35,17 @@ An advanced Arduino parking assistant featuring an object-oriented design, adapt
 | **LCD SDA** | A4 | I2C Data |
 | **LCD SCL** | A5 | I2C Clock |
 
+##  File Structure
+
+```text
+src/
+├── main.ino         # Main logic and setup
+├── LCD.h            # LCD and progress bar management
+├── buzzer.h         # Adaptive buzzer logic
+├── led.h            # LED brightness control
+└── UltraSensor.h    # Distance measurement and filtering
+```
+
 ##  Software Architecture
 The project is organized into modular C++ classes to ensure clean, maintainable, and reusable code:
 
