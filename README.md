@@ -10,13 +10,15 @@ An advanced Arduino parking assistant featuring an object-oriented design, adapt
 - **Non-blocking Logic:** Completely built using `millis()` for multitasking, ensuring the system remains highly responsive without using `delay()`.
 
 ##  Demonstration
-You can check the system here : 
-[Project Video](https://youtu.be/QTfNDYeLN_8)
 
-Also a picture of how it physically looks : 
-[Project Picture](https://imgur.com/4CUUrM0)
+### Project Preview
+![Parking Radar Preview]([preview.jpg](https://imgur.com/4CUUrM0))
 
-## 🛠️ Hardware Requirements
+### Watch the system in action
+[![Watch the video](https://img.youtube.com/vi/QTfNDYeLN_8/maxresdefault.jpg)](https://youtu.be/QTfNDYeLN_8)
+
+
+##  Hardware Requirements
 * **Microcontroller:** Arduino Uno
 * **Sensor:** HC-SR04 Ultrasonic Sensor
 * **Display:** 16x2 LCD with I2C Module
