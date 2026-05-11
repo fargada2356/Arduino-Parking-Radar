@@ -12,7 +12,7 @@ An advanced Arduino parking assistant featuring an object-oriented design, adapt
 ##  Demonstration
 
 ### Project Preview
-![Parking Radar Preview](https://imgur.com/a/WTJk8nD)
+![Parking Radar Preview](https://cdn.discordapp.com/attachments/1204887824982347827/1503348720371241040/IMG_20260511_133629.jpg?ex=6a030619&is=6a01b499&hm=a8f7a86a79293ae08c4f06594be9e2e0300cabf795dc92df2732059882e154de&)
 
 ### Watch the system in action
 [![Watch the video](https://img.youtube.com/vi/QTfNDYeLN_8/maxresdefault.jpg)](https://youtu.be/QTfNDYeLN_8)
